@@ -1,0 +1,337 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(65, 195, 231); */
+   background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+    padding: 1px;
+    display: flex;
+    flex-wrap: wrap;
+   
+    
+}
+.card1{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+    flex-shrink: 0;
+    cursor: pointer;
+    
+}
+.card1 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card1 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card1 p{
+    text-align: center;
+}
+.card1 button:hover{
+    background-color: red;
+}
+
+.card2{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card2 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card2 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card2 p{
+    text-align: center;
+}
+.card2 button:hover{
+    background-color: red;
+}
+.card3{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card3 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card3 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card3 p{
+    text-align: center;
+}
+.card3 button:hover{
+    background-color: red;
+}
+.card4{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card4 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card4 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card4 p{
+    text-align: center;
+}
+.card4 button:hover{
+    background-color: red;
+}
+.card5{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card5 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card5 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card5 p{
+    text-align: center;
+}
+.card5 button:hover{
+    background-color: red;
+}
+.card6{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card6 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card6 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card6 p{
+    text-align: center;
+}
+.card6 button:hover{
+    background-color: red;
+}
+.card7{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card7 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card7 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card7 p{
+    text-align: center;
+}
+.card7 button:hover{
+    background-color: red;
+}
+.card8{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card8 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card8 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card8 p{
+    text-align: center;
+}
+.card8 button:hover{
+    background-color: red;
+}
+.card9{
+    margin: 20px 20px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.534);
+     flex-shrink: 0;
+     cursor: pointer;
+}
+.card9 img{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    
+} 
+.card9 button{
+    margin: 10px 20px;
+    padding: 10px 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+}
+.card9 p{
+    text-align: center;
+}
+.card9 button:hover{
+    background-color: red;
+}
